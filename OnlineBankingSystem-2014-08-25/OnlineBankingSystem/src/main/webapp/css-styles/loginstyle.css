@@ -1,0 +1,19 @@
+@CHARSET "ISO-8859-1";
+
+body
+{
+	background-color:#f8f8ff;
+}
+#heading
+{
+	text-align:center;
+	font:15px;
+}
+#logincontainer
+{
+	width:350px;	
+	text-align:center;	
+	background-color:#bfffff;
+	margin-left:100px;
+	
+}
